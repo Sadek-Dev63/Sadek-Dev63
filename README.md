@@ -1,4 +1,4 @@
-# hello everyone
+# Hello everyone
 
 - 👋 Hi, I’m @Sadek-Dev63
 - 👀 I’m interested in web development
